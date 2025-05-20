@@ -1,2 +1,2 @@
 # apriori-algorithm
-flask implementation of apriori algorithm
+flask implementation of the apriori algorithm
