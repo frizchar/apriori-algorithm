@@ -1,4 +1,5 @@
 # Apriori Algorithm Implementation in Flask
+### Overview
 flask implementation of the [apriori algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm)
 
 ### Dependencies
