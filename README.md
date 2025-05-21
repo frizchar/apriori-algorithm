@@ -1,5 +1,5 @@
 # Apriori Algorithm Implementation in Flask
-flask implementation of the apriori algorithm
+flask implementation of the [apriori algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm)
 
 ### Dependencies
 The required packages are included in file ```requirements.txt```.<br>
